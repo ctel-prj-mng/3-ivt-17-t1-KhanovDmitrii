@@ -3,4 +3,4 @@
 
 ## ИСР 1.2 Создание диаграммы Ганта для организации проектной деятельности по разработке корпоративного сайта и анализ потенциальных рисков. Создание отчета-репозитория в GitHub, оформление с использованием разметки Markdown.
 
-!(Диаграмма Ганта)[https://drive.google.com/file/d/1JgxxnDjIy-p0_cnGEfQYhJWIMhSRSJ-Y/view?usp=sharing]
+![Диаграмма Ганта](https://drive.google.com/file/d/1JgxxnDjIy-p0_cnGEfQYhJWIMhSRSJ-Y/view?usp=sharing)
